@@ -1,0 +1,7 @@
+d:\Dados\documentos\Projetos\Argo\argoteste-master\TesteArgo\bin\Debug\TesteArgo.exe.config
+d:\Dados\documentos\Projetos\Argo\argoteste-master\TesteArgo\bin\Debug\TesteArgo.exe
+d:\Dados\documentos\Projetos\Argo\argoteste-master\TesteArgo\bin\Debug\TesteArgo.pdb
+d:\Dados\documentos\Projetos\Argo\argoteste-master\TesteArgo\obj\Debug\TesteArgo.csprojAssemblyReference.cache
+d:\Dados\documentos\Projetos\Argo\argoteste-master\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+d:\Dados\documentos\Projetos\Argo\argoteste-master\TesteArgo\obj\Debug\TesteArgo.exe
+d:\Dados\documentos\Projetos\Argo\argoteste-master\TesteArgo\obj\Debug\TesteArgo.pdb
